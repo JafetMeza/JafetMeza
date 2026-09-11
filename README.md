@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jafet Meza</h1>
+<h1 align="center">Hi 👋, I'm Abraham Jafet Meza</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jafetmeza" alt="jafetmeza" /></a> </p>
